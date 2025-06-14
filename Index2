@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Helping Big Island Businesses Get Set Up & Stay Organized">
+  <meta name="keywords" content="LLC setup, bookkeeping, Big Island Hawaii, small business help, tax support, QuickBooks, Big Island Business Builders LLC">
+  <title>Big Island Business Builders LLC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f8f9fa;
+      color: #333;
+    }
+
+    header {
+      background: #1E3A5F;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin-bottom: 10px;
+    }
+
+    section {
+      padding: 30px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .services ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .services li {
+      background: #e9ecef;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 12px 24px;
+      background-color: #FF6B35;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+
+    .cta-button:hover {
+      background-color: #cc582b;
+    }
+
+    iframe {
+      width: 100%;
+      border: none;
+      min-height: 800px;
+      height: 100vh;
+    }
+
+    footer {
+      background: #343a40;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+
+    a {
+      color: #1E3A5F;
+    }
+
+    @media (max-width: 600px) {
+      header, section {
+        padding: 20px 15px;
+      }
+
+      .cta-button {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Big Island Business Builders LLC</h1>
+    <p>Helping Big Island Businesses Get Set Up & Stay Organized</p>
+  </header>
+
+  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>LLC Formation Assistance</li>
+      <li>Monthly Bookkeeping</li>
+      <li>Tax Preparation Support</li>
+      <li>QuickBooks Setup & Training</li>
+      <li>Free 15-Minute Consultations</li>
+    </ul>
+    <a href="mailto:info@bigislandbusinessbuildersllc.com" class="cta-button">📬 Book a Free Intro Chat</a>
+  </section>
+
+  <section class="form">
+    <h2>Get in Touch</h2>
+    <p>Have questions or ready to get started? Fill out the form below:</p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSck7nPRuqeiM8dmQ4p_u9UwLqzhOHQVgqz7NC6pu3st0BEPcg/viewform?embedded=true" loading="lazy">
+      Loading…
+    </iframe>
+  </section>
+
+  <footer>
+    &copy; 2025 Big Island Business Builders LLC · <a href="mailto:info@bigislandbusinessbuildersllc.com">info@bigislandbusinessbuildersllc.com</a>
+  </footer>
+
+</body>
+</html>
